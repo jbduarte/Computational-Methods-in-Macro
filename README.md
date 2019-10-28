@@ -10,3 +10,20 @@ The objective of the course is to go over the main workhorse models in macro, wi
 5. Heterogeneity and macroeconomic policy: implications of heterogeneity for the transmission and efficacy of monetary and fiscal policy. 
 
 
+## Useful Resources
+
+- https://quantecon.org
+- https://www.dsge.net/tools/dsge-tools
+- https://www.dynare.org
+- https://www.macromodelbase.com
+- https://econ-ark.org
+
+- https://www.sas.upenn.edu/~jesusfv/index.html
+- http://www.princeton.edu/~sims/
+- http://www.wouterdenhaan.com/software.htm
+- https://sites.google.com/site/pfeiferecon/dynare
+
+
+## Cheatsheets
+
+- https://cheatsheets.quantecon.org
