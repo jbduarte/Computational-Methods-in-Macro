@@ -4,10 +4,11 @@ The objective of the course is to go over the main workhorse models in macro, wi
 
 
 1. Intro to python
-2. Recursive methods and representative agent model
-3. Models with (exogenously) incomplete markets: equilibrium determination of wealth inequality (the Aiyagary model) 
-4. Models with aggregate uncertainty (the Krusell and Smith model)  
-5. Heterogeneity and macroeconomic policy: implications of heterogeneity for the transmission and efficacy of monetary and fiscal policy. 
+2. Numerical methods
+3. Representative agent models and methods
+4. Heterogeneous agents models and methods
+5. Heterogeneous agents + aggregate uncertainty models and methods
+6. Continuous time models and methods
 
 
 ## Useful Resources
