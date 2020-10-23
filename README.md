@@ -1,7 +1,6 @@
 # Computational Methods in Macro
 
-The objective of the course is to go over the main workhorse models in macro, with an emphasis on models with heterogenous agents, and to show some leading applications of these models in recent literature. By the end of the course one should know the basic toolkits to solve and simulate macro models and should be able to apply/extend them for research purposes. 
-
+The objective of the course is to go over the main workhorse models in macro, with an emphasis on models with heterogeneous agents, and to show some leading applications of these models in recent literature. By the end of the course one should know the basic toolkits to solve and simulate macro models and should be able to apply/extend them for research purposes. 
 
 1. Intro to python
 2. Numerical methods
