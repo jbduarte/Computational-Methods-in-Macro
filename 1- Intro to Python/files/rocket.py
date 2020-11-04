@@ -1,3 +1,5 @@
+# Save in files as rocket.py
+
 from math import sqrt
 
 class Rocket():
@@ -20,8 +22,10 @@ class Rocket():
         #  and returns that value.
         distance = sqrt((self.x-other_rocket.x)**2+(self.y-other_rocket.y)**2)
         return distance
-
-
+    
+def hello():
+    print("hello")
+    
 class Shuttle(Rocket):
     # Shuttle simulates a space shuttle, which is really
     #  just a reusable rocket.
